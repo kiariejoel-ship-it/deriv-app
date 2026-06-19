@@ -1,20 +1,14 @@
 <!DOCTYPE html>
-
 <html>
 <head>
-    <title>Joel Deriv App</title>
+    <title>Deriv Login</title>
 </head>
 <body>
-    <h1>Welcome to My Deriv App</h1>
-    <p>Click below to log in with Deriv.</p>
+    <h1>My Deriv App</h1>
 
-```
-<a href="https://oauth.deriv.com/oauth2/authorize?app_id=33AvZaWHhmQ2asmOM33Ts">
-    Log in with Deriv
-</a>
-```
+    <a href="https://oauth.deriv.com/oauth2/authorize?app_id=33AvZaWHhmQ2asmOM33Ts">
+        <button>Log in with Deriv</button>
+    </a>
 
 </body>
 </html>
-
-
